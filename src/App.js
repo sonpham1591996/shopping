@@ -17,7 +17,7 @@ function App() {
           username: 'SonPM',
           role: 'ADMIN'
         }))
-      }}>UPDATE USER INFO</button>
+      }}>UPDATE USER INFORMATION</button>
     </div>
   );
 }
